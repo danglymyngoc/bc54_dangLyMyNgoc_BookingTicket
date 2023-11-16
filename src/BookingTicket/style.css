@@ -8,15 +8,7 @@
 }
 
 
-.ghe{
-    border: 3px solid orange;
-    width: 45px;
-    height: 35px;
-    font-size: 12px;
-    margin-left: 2%;
-    margin-bottom: 1%;
-    border-radius: 5px;
-}
+
 
 .rowNumber{
     width: 45px;
@@ -37,13 +29,13 @@
 }
 
 .screen{
-    border-bottom: 50px solid rgb(255, 159, 95);
+    border-bottom: 30px solid rgb(255, 159, 95);
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
-    height: 100;
-    width:80%;
+    height: 50;
+    width:90%;
     filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
-    font-size: 25px;
+    font-size: 10px;
     color: #fff;
 }
 
@@ -56,9 +48,10 @@
 
     cursor: no-drop !important;
     border-radius: 5px;
-    width: 45px;
-    height: 35px;
-
+    width: 40px;
+    height: 32px;
+    margin-left: 2%;
+    margin-bottom: 1.5%;
 }
  
 .gheDangChon {
@@ -68,7 +61,17 @@
 
     cursor: pointer;
     border-radius: 5px;
-    width: 45px;
-    height: 35px;
-
+    width: 40px;
+    height: 32px;
+    margin-left: 2%;
+    margin-bottom: 1.5%;
+}
+.ghe{
+    border: 3px solid orange;
+    width: 40px;
+    height: 32px;
+    font-size: 10px;
+    margin-left: 2%;
+    margin-bottom: 1.5%;
+    border-radius: 5px;
 }
